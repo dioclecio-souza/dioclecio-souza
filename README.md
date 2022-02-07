@@ -1,4 +1,4 @@
-### Olá! Eu sou o Dioclécio Souza
+### Olá! Eu me chamo Dioclécio Souza
 
 <div align="center">
   <a href="https://github.com/dioclecio-souza">
